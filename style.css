@@ -1,0 +1,15 @@
+form{
+
+    display: flex;
+    flex-direction: column;
+}
+
+input{
+    width: 10%;
+    border: 1px solid balck;
+}
+
+button{
+    width: 6%;
+background-color: rgb(206, 206, 206);
+}
